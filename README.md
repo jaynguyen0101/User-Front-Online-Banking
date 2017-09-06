@@ -3,9 +3,9 @@ User-Front is a user-facing system and it includes such modules as User Signup/L
 
 1. Use Spring Boot to quickly prototype a web app
 2. User Thymeleaf as Java template engine
-*Develop domain classes to model the business entities
-*Use Spring Security to build up the security layer for your app
-*Use database as source of credentials for security login
-*Use Spring Data, JPA and Hibernate to build up the persistence layer
-*Use Spring Boot to host REST service resources
-*Develop frontend services to communicate with backend through REST services
+3. Develop domain classes to model the business entities
+4. Use Spring Security to build up the security layer for your app
+5. Use database as source of credentials for security login
+6. Use Spring Data, JPA and Hibernate to build up the persistence layer
+7. Use Spring Boot to host REST service resources
+8. Develop frontend services to communicate with backend through REST services
